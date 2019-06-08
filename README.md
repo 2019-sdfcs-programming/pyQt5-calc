@@ -6,4 +6,6 @@
 ![](https://img.shields.io/badge/life-uninstalled-red.svg)
 ![](https://img.shields.io/badge/life-dead-red.svg)
 
+![](./demo.png)
+
 큐티한 파이큐티를 사용해서 큐티한 계산기를 만들었음
